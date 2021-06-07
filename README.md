@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Squexjs
+- 👋 Hi, I’m @Squex
 - 👀 I’m interested in Steal Codes
 - 🌱 I’m currently learning C# js
 - 💞️ I’m looking to collaborate on ...
