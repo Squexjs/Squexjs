@@ -2,7 +2,7 @@
 - 👀 I’m interested in Steal Codes
 - 🌱 I’m currently learning C# js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord ! Squex#1337
+- 📫 How to reach me Discord !mental issues#1948
 
 <!---
 Squexjs/Squexjs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
